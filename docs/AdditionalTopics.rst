@@ -122,6 +122,7 @@ file with the same contents as in the above Windows section.
 Now, run ``bitcoind`` or ``bitcoin-qt``, as such:
 
 To run ``bitcoin-qt``: ``"bitcoin-qt --datadir=~/.bitcoin-test``
+
 To run ``bitcoind``: ``bitcoind --data-dir=~/.bitcoin-test``
 
 For more information, see the Windows section above.
